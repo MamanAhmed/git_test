@@ -1,1 +1,2 @@
 Im starting to understand git!
+This is fun!
